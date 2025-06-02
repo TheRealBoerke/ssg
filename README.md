@@ -4,6 +4,8 @@
 This is a guided project from the [boot.dev](https://boot.dev) Python back-end development track.
 
 ## History
+- fix htmlnode unittest issue >> fixed an assertion issue where test_neq for htmlnode returned an error and fixed inheritance for the TestHTMLNode class.
+- add additional unit tests >> added unit tests for htmlnode package
 - update .gitignore >> added pycache to git ignore
 - add initial htmlnode logic >> added htmlnode package and some basic unit tests
 - add initial textnode logic >> added textnode package and some basic unit tests
