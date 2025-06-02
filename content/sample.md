@@ -40,7 +40,7 @@ Mystic warlocks who usurped their way into vampire society using **Thaumaturgy**
 2. Distrusted by many
 3. Master manipulators of blood
 
-![Tremere Chantry](<URL>)
+![Tremere Chantry](https://bootdevtherealboerke.blob.core.windows.net/vtm/tremere_chantry_vienna.png)
 
 ### Clan Malkavian
 
